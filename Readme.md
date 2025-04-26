@@ -6,3 +6,4 @@ c:\Users\karim\Desktop\githubWorks\figma\Banner_Nike.png# _✨ Добро пож
 
 ## Figma <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
 
+![df](./figma/main.png)
