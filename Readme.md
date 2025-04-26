@@ -16,3 +16,5 @@
 ![f](./site/screen2.png)
 
 ![f](./site/screen3.png)
+
+<small>Not all of these sites are mobile friendly.</small>
