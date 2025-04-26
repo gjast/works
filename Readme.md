@@ -6,5 +6,5 @@ c:\Users\karim\Desktop\githubWorks\figma\Banner_Nike.png# _✨ Добро пож
 
 ## Figma <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
 
-![first](./figma/Banner_Nike.png)
-<video src='./figma/Banner2.gif'></video>
+![f](./figma/Banner_Nike.png)
+![s]('./figma/Frame 1.png')
