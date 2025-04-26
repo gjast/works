@@ -7,8 +7,7 @@
 ![s](./figma/Frame.png)
 ![t](./figma/main.png)
 
-## Site
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+## Site <img width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Logo" />
 
 
 
